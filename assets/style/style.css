@@ -53,3 +53,17 @@ a {
 .btn button:hover {
   background-color: #81b4f7;
 }
+.free-logo {
+  padding-top: 100px;
+  text-align: center;
+  font-size: 40px;
+  font-weight: bold;
+  margin: 0px 350px 0px 350px;
+  color: #023e8a;
+}
+
+.get-free-logo {
+  text-align: center;
+  padding-top: 20px;
+  font-size: 20px;
+}
