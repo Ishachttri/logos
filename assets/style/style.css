@@ -101,3 +101,67 @@ a {
   width: 800px;
   padding: 80px;
 }
+.trusted-business-owner {
+  margin: 0px 400px 0px 400px;
+  text-align: center;
+  color: #023e8a;
+}
+.template {
+  text-align: center;
+  padding-top: 20px;
+  font-size: 20px;
+}
+
+.template {
+  margin: 0px 400px 0px 400px;
+}
+
+.text {
+  text-align: center;
+  padding: 40px 0px 20px 0px;
+  border-bottom: 3px solid rgb(80, 78, 78);
+}
+
+.brand-logo {
+  margin: 0px 400px 0px 400px;
+  text-align: center;
+  padding-top: 40px;
+  font-weight: bold;
+  color: #023e8a;
+}
+
+.two-div {
+  display: flex;
+  align-items: center;
+  padding: 60px 100px 40px 100px;
+}
+
+.left-image img {
+  width: 500px;
+}
+
+.right-paragraph {
+  padding: 0px 0px 0px 20px;
+}
+
+.our-tools {
+  padding: 0px 0px 20px 0px;
+  color: #023e8a;
+}
+
+.logo-pro {
+  display: flex;
+  flex-direction: column;
+}
+
+.logo-pro button {
+  width: 280px;
+  height: 40px;
+  background-color: #023e8a;
+  border: none;
+  border-radius: 5px;
+}
+
+.million {
+  padding: 0px 0px 20px 0px;
+}
