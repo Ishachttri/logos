@@ -181,3 +181,46 @@ a {
   padding: 60px 100px 40px 100px;
   border-bottom: 3px solid rgb(80, 78, 78);
 }
+.ready-to-set {
+  align-items: center;
+}
+
+.ready {
+  text-align: center;
+  margin: 0px 450px 0px 450px;
+  padding-top: 20px;
+  color: #023e8a;
+}
+
+.stich-the-brand {
+  margin: 90px 0px 0px 0px;
+}
+
+.stich {
+  display: flex;
+  justify-content: space-evenly;
+  padding: 100px 0px 80px 0px;
+  background-color: #ebebeb;
+  border-top: 3px solid rgb(80, 78, 78);
+}
+
+.stich-building {
+  width: 400px;
+}
+
+.stich-building button {
+  width: 300px;
+  height: 46px;
+  border-radius: 5px;
+  border: none;
+  background-color: #023e8a;
+}
+
+.stich-img img {
+  width: 600px;
+}
+
+.brand-building {
+  padding: 0px 0px 20px 0px;
+  color: #023e8a;
+}
