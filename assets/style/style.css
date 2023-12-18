@@ -224,3 +224,46 @@ a {
   padding: 0px 0px 20px 0px;
   color: #023e8a;
 }
+.custom {
+  padding: 0px 0px 20px 0px;
+}
+
+.demo-5 {
+  border-top: 3px solid rgb(80, 78, 78);
+  border-left: none;
+  border-right: none;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 7.5rem;
+  color: #fff;
+}
+
+.first-5 {
+  font-weight: bolder;
+  font-size: 1.2rem;
+  padding: 0px 0px 20px 0px;
+  color: #023e8a;
+}
+
+.second-5 button {
+  display: flex;
+  flex-direction: column;
+  padding: 25px;
+  border-radius: 4px;
+  margin: 2px;
+  height: 84px;
+  width: 1116px;
+  background-color: #023e8a;
+  color: #fff;
+  margin: 8px;
+  border: none;
+  text-transform: capitalize;
+  font-weight: bolder;
+  font-size: 20px;
+}
+
+.second-5 button:hover {
+  background-color: #ebebeb;
+  cursor: pointer;
+}
