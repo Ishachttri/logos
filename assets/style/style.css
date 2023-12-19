@@ -314,3 +314,16 @@ a {
   padding: 0px 0px 30px 0px;
   font-size: large;
 }
+.professional-skill {
+  width: 400px;
+}
+
+.professional-skill p {
+  font-size: small;
+  padding: 0px 0px 20px 0px;
+}
+
+.professional-skill h4 {
+  padding: 0px 0px 30px 0px;
+  font-size: large;
+}
