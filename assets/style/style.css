@@ -327,3 +327,26 @@ a {
   padding: 0px 0px 30px 0px;
   font-size: large;
 }
+.foot {
+  background-color: #ebebeb;
+  border-top: 3px solid rgb(80, 78, 78);
+}
+
+.box-right img {
+  width: 30px;
+  height: 30px;
+  padding: 10px;
+}
+
+.box-right a {
+  text-decoration: none;
+}
+
+.foot {
+  display: flex;
+  justify-content: space-between;
+}
+
+.box-1 {
+  margin: 60px 0px 0px 40px;
+}
