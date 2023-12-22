@@ -42,3 +42,14 @@ a {
 .second-navclass li a {
   color: #fff;
 }
+.btn button {
+  width: 70px;
+  height: 30px;
+  border-radius: 4px;
+  color: #023e8a;
+  font-size: large;
+  font-weight: bold;
+}
+.btn button:hover {
+  background-color: #81b4f7;
+}
